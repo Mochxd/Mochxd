@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Mohamed Mostafa</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=275&size=40&duration=4000&pause=500&color=F7E124&center=true&vCenter=true&width=600&lines=QA+%26+Testing+Automation+Engineer" alt="Typing SVG" /></a>
+ <a><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=275&size=40&duration=4000&pause=500&color=F7E124&center=true&vCenter=true&width=600&lines=QA+%26+Testing+Automation+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
