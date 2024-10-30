@@ -36,13 +36,17 @@
   <a href="https://rest-assured.io/"><img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="REST Assured" width="50" height="50"/></a>
   <a href="https://testng.org/"><img src="https://howtodoinjava.com/wp-content/uploads/2014/12/TestNG.png" alt="TestNG" width="50" height="50"/></a>
   <a href="https://www.postman.com/"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="50" height="50"/></a>
+  <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="JIRA" width="50" height="50"/></a>
   <a href="https://www.linux.org/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" width="50" height="50"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="50" height="50"/></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="50" height="50"/></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h2 align="left">📈 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mochxd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mochxd&theme=radical" alt="GitHub Streak" />
 </p>
