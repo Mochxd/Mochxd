@@ -13,7 +13,7 @@
   <li>🔍 <strong>Passionate QA & Testing Automation Engineer</strong> with experience in Agile methodologies and a focus on delivering high-quality software solutions.</li>
   <li>🎓 <strong>Education:</strong> B.Sc. in Civil Engineering, Fayoum University</li>
   <li>📋 <strong>Certifications:</strong> ISTQB® Certified Tester (CTFL, CTFL-AT, CTFL-MAT)</li>
-  <li>💼 <strong>Current Role:</strong> QA & Testing Automation Engineer @ Vodafone Egypt</li>
+  <li>💼 <strong>Current Role:</strong> QA & Testing Automation Engineer @Vodafone Egypt</li>
   <li>🌐 <strong>Technical Skills:</strong> Proficient in test automation tools and frameworks, including Selenium, Appium, and REST Assured, and experienced in manual and automated testing for mobile and web applications.</li>
   <li>🔧 <strong>Development Skills:</strong> Skilled in Java, C, C++, Python, and various scripting tools for effective QA automation.</li>
 </ul>
