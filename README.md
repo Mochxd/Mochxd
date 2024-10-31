@@ -47,6 +47,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mochxd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mochxd&theme=radical" alt="GitHub Streak" />
-</p>
