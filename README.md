@@ -42,8 +42,13 @@
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="50" height="50"/></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="50" height="50"/></a>
 </p>
-
 <h2 align="left">📈 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mochxd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mochxd&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
+<h2 align="left">📊 GitHub Top Languages:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mochxd&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
