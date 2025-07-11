@@ -44,7 +44,7 @@
 </p>
 <h2 align="left">📈 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mochxd&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Mochxd&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <h2 align="left">📊 GitHub Top Languages:</h2>
